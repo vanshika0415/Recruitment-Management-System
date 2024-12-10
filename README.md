@@ -1,3 +1,4 @@
+**RECRUITMENT-MANAGEMENT-SYSTEM**
 As we move ahead post the pandemic, placements especially in the IT sector 
 are observing a boom due to large number of vacancies and ever expanding 
 opportunities in the same field. At the institutional or college level, the HR 
@@ -10,4 +11,4 @@ freelancers sometimes in the overall process. The project aims to provide a
 seamless medium to the institutes and companies to facilitate smooth 
 recruitment of applicants without setbacks while avoiding problems along the 
 way . The project utilizes SQL and PL/SQL by carefully normalizing tables to 
-procure an effective mechanism while minimizing anomalies
+procure an effective mechanism while minimizing anomalies.
